@@ -32,3 +32,4 @@ When you've finished this component, take a moment to compare it to the previous
 - [Stateless Functions](https://facebook.github.io/react/docs/reusable-components.html#stateless-functions)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-presentation-components-lab'>Presentation Components Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG React Presentation Components Lab</p>
